@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahesh-tawde
 - 👀 I’m interested in tech 👨‍💻
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on QA Automation
+- 🌱 I’m currently working at Dunzo and working on automation across SDLC lifecycle
+- 💞️ I’m looking to collaborate on exciting new developments in tech
 
 
 <!---
